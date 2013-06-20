@@ -1,8 +1,0 @@
-property.with.arobase.delimiter               :0.0.1-SNAPSHOT
-property.with.dollar.delimiter                :0.0.1-SNAPSHOT
-property.system.with.arobase.delimiter        :/home/oliver
-property.system.with.dollar.delimiter         :/home/oliver
-property.escaped.with.arobase.delimiter       :0.0.1-SNAPSHOT
-property.escaped.with.dollar.delimiter        :0.0.1-SNAPSHOT
-property.system.escaped.with.arobase.delimiter:/home/oliver
-property.system.escaped.with.dollar.delimiter :/home/oliver
