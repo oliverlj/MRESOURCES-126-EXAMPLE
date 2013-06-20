@@ -1,0 +1,8 @@
+property.with.arobase.delimiter               :${property.with.arobase.delimiter}
+property.with.dollar.delimiter                :${property.with.dollar.delimiter}
+property.system.with.arobase.delimiter        :${property.system.with.arobase.delimiter}
+property.system.with.dollar.delimiter         :${property.system.with.dollar.delimiter}
+property.escaped.with.arobase.delimiter       :${property.escaped.with.arobase.delimiter}
+property.escaped.with.dollar.delimiter        :${property.escaped.with.dollar.delimiter}
+property.system.escaped.with.arobase.delimiter:${property.system.escaped.with.arobase.delimiter}
+property.system.escaped.with.dollar.delimiter :${property.system.escaped.with.dollar.delimiter}
